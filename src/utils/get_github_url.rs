@@ -21,7 +21,3 @@ pub fn get_github_url(from: Option<&str>) -> String {
 
     format!("{}?{}", root_url, qs)
 }
-hj,gfdhdghhgdrfhgjbhjfbr
-
-kpofkfd
-k;leskf;
